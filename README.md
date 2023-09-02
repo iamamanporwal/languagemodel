@@ -12,7 +12,7 @@ To solve these challenges, we can use OpenAI's API or other Open-source large la
 2. We can teach this API to work just the way we want it to for our app. Plus, it's easy to use with JavaScript, we'll not have any compatiblity issues.
 
 ## Here's a sample code of how it works (Python)
-'''
+```
 import openai
 
 # Set your OpenAI API key
@@ -42,4 +42,4 @@ response = openai.Completion.create(
 personality_summary = response.choices[0].text.strip()
 print(personality_summary)
 
-'''
+```
