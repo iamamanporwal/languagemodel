@@ -1,6 +1,6 @@
 ## Problem Statement
 
-1. Our app needs a Language model that can understand and summarize a person's personality based on some personality based questions about them.
+1. Our app needs a Language model that can understand and summarize a person's personality based on some personality based questions they answer.
 
 ## My approach for this solution
 
