@@ -8,7 +8,7 @@ To solve these challenges, we can use OpenAI's API or other Open-source large la
 
 1. Building our own tool from scratch would take a lot of time and resources. Plus, the output could end up repetitive and robotic
 
-2. We can train this API to work just the way we want it to for our app. Plus, it's easy to use with JavaScript, we'll not have any compatiblity issues.
+2. We can train this API to work just the way we want it to for our app. Plus, it is compatible JavaScript, we'll not have any compatiblity issues.
 
 ## Here's a sample code of how it works (Python)
 ```
