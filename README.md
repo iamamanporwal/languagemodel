@@ -1,6 +1,12 @@
-Problem statement: 1. The app requires a language model which summarizes a person's personality based on few different paragraphs about the person. 
-                   2. The Language model should also help in recommendation system. 
+## Problem Statement
 
-Open ai api Solution: The approach I wanted to suggest is to generate a 2 line summary of all those personality test using Openai's api or other opensource large language model api's reason being, 
-                      1. It would require alot of time and resources to create our own language model and still the output would be very repetitive and robotic.
-                      2. We can also train the api for our use case and It's also avaliable in Javascript. 
+1. Our app needs a Language model that can understand and summarize a person's personality based on some personality based questions about them.
+2. We also want this model to help us in recommendation system.
+
+## My approach for this solution
+
+To solve these challenges, we can use OpenAI's API or other Open-source large language model. Here's why it's a good idea:
+
+1. Building our own tool from scratch would take a lot of time and resources. Plus, the output could end up repetitive and robotic
+
+2. We can teach this API to work just the way we want it to for our app. Plus, it's easy to use with JavaScript, which is a common programming language.
