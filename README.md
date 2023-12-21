@@ -1,4 +1,4 @@
-## Problem Statement
+## Problem Statement.
 
 1. Our app needs a Language model that can understand and summarize a person's personality, based on some multiple choice questions they answer about themselves.
 
